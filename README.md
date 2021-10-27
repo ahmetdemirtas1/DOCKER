@@ -1,2 +1,2 @@
 # Dcap
-Dcap/ap
+Araştıma problemleri için yapılan uygulama
